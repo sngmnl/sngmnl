@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning python and DevOps / Cloud computing. <br>I'm currently working on potential AI implementation.<br>My name sounds like a superhero.
+I'm currently learning python and MLOPS. <br>I'm currently working on potential AI implementation.<br>My name sounds like a superhero.
 
 
 # 💻 Tech Stack:
